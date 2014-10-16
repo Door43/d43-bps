@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bps:home|Door43 (bps)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bps|d43-bps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bps/archive/master.zip|d43-bps.zip]]
+
+**Recent Changes**
+{{changes>ns = bps}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bps|Ethnologue data]]
+
